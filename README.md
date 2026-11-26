@@ -44,6 +44,7 @@ Proyecto integral de certificación abarcando el ciclo completo de QA para una p
 * **Tecnologías:** Android Studio, Postman, Jira, SQL.
 * **Entregables en este repo:**
   * 🧠 [Mapa Mental y Checklist de Pruebas](./urban-scooter/checklist.md)
-  * 📱 [Evidencia de Pruebas Móviles y Reportes de Defectos] urban_scooter 
+  * **Entregables en este repo:**
+  * 🐞 [Reportes de Defectos en Jira (Móvil, Web y API)](urban_scooter/)
 
 ---
