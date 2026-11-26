@@ -24,10 +24,7 @@ Pruebas funcionales y automatización de flujos críticos de usuario (solicitud 
 
 * **Enfoque:** Diseño de casos de prueba, pruebas de regresión y automatización bajo el patrón Page Object Model (POM).
 * **Tecnologías:** Python, Pytest, Selenium WebDriver, Chrome DevTools.
-* **Entregables en este repo:**
-  * 📄 [Matriz de Casos de Prueba](./urban-routes/test-cases.md)
-  * 💻 [Código de Automatización](./urban-routes/tests/)
-  * 🐞 [Ejemplos de Reportes de Bugs](./urban-routes/bug-reports.md)
+* **Entregables en este repo: * [Código de Automatización](https://github.com/gadolfo206/qa-project-Urban-Routes-es)
 
 ---
 
