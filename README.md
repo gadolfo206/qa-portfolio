@@ -34,10 +34,7 @@ Verificación de endpoints para la creación de kits, gestión de usuarios y val
 * **Enfoque:** Pruebas positivas/negativas, validación de códigos de estado HTTP (200, 400, 404, 500), estructura de respuestas JSON y persistencia en BD.
 * **Tecnologías:** Postman, Python, Pytest, PostgreSQL.
 * **Entregables en este repo:**
-  * 📮 [Colección de Postman (.json)](./urban-grocers/postman_collection.json)
-  * 💻 [Pruebas Automatizadas de API](./urban-grocers/api_tests.py)
-  * 🗄️ [Consultas SQL de Validación](./urban-grocers/queries.sql)
-
+  [Pruebas Automatizadas de API](https://github.com/gadolfo206/qa-project-Urban-Grocers-app-es)
 ---
 
 ### 3. 🛴 Urban Scooter — Testing Integral (Móvil, Web y API)
