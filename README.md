@@ -43,7 +43,7 @@ Proyecto integral de certificación abarcando el ciclo completo de QA para una p
 * **Enfoque:** Análisis de requisitos, creación de mapas mentales, checklists de pruebas en emulador Android y validación de endpoints.
 * **Tecnologías:** Android Studio, Postman, Jira, SQL.
 * **Entregables en este repo:**
-  * 🧠 [Mapa Mental y Checklist de Pruebas](urban_scooter/mapa_mental_urban_scooter.pdf)
+  * [Mapa Mental y Checklist de Pruebas](urban_scooter/mapa_mental_urban_scooter.pdf)
   * **Entregables en este repo:**
    [Reportes de Defectos en Jira (Móvil, Web y API)](urban_scooter/)
 
